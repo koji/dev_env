@@ -2,5 +2,5 @@
 dev_env setup note
 
 
-- python
-- node
+- python https://github.com/koji/dev_env/blob/main/python.md
+- node https://github.com/koji/dev_env/blob/main/node.md
